@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68ae29cd-9a48-41ba-aac1-0cfa21967cd1" name="Changes" comment="in button class=&quot;submit&quot; change 'alt' in image">
+    <list default="true" id="68ae29cd-9a48-41ba-aac1-0cfa21967cd1" name="Changes" comment="fixed mobile adaptation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile-max-w-768px.css" beforeDir="false" afterPath="$PROJECT_DIR$/mobile-max-w-768px.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="705150ec6aeb49748ea74627cb953da0b79e92b9" />
+        <entry key="$PROJECT_DIR$" value="b05ad8caf6d9335a92562e89d89d16c4431a3a7a" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,6 +58,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Денис\IdeaProjects\Project_HTML_Denis_Strilchuk" />
       <recent name="C:\Users\Денис\IdeaProjects\Project_HTML_Denis_Strilchuk\images" />
     </key>
   </component>
@@ -70,7 +71,8 @@
       <option name="presentableId" value="Default" />
       <updated>1700246417520</updated>
       <workItem from="1700246418665" duration="2082000" />
-      <workItem from="1700308952208" duration="2044000" />
+      <workItem from="1700308952208" duration="2384000" />
+      <workItem from="1700313551180" duration="2084000" />
     </task>
     <task id="LOCAL-00001" summary="add index.html file, add main.css file, adapted for tablet and mobile version">
       <option name="closed" value="true" />
@@ -88,7 +90,31 @@
       <option name="project" value="LOCAL" />
       <updated>1700247946788</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fixed mobile adaptation">
+      <option name="closed" value="true" />
+      <created>1700311086860</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700311086860</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixed mobile adaptation">
+      <option name="closed" value="true" />
+      <created>1700311194869</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700311194869</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fixed mobile adaptation">
+      <option name="closed" value="true" />
+      <created>1700311220625</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700311220625</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +135,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add index.html file, add main.css file, adapted for tablet and mobile version" />
     <MESSAGE value="in button class=&quot;submit&quot; change 'alt' in image" />
-    <option name="LAST_COMMIT_MESSAGE" value="in button class=&quot;submit&quot; change 'alt' in image" />
+    <MESSAGE value="fixed mobile adaptation" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed mobile adaptation" />
   </component>
 </project>
