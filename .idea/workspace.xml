@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68ae29cd-9a48-41ba-aac1-0cfa21967cd1" name="Changes" comment="fixed mobile adaptation">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="68ae29cd-9a48-41ba-aac1-0cfa21967cd1" name="Changes" comment="add favicon" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="b05ad8caf6d9335a92562e89d89d16c4431a3a7a" />
+        <entry key="$PROJECT_DIR$" value="66bc6fbcd1eebcc6215649c0e0b093b914c67d41" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -72,7 +69,7 @@
       <updated>1700246417520</updated>
       <workItem from="1700246418665" duration="2082000" />
       <workItem from="1700308952208" duration="2384000" />
-      <workItem from="1700313551180" duration="2084000" />
+      <workItem from="1700313551180" duration="2327000" />
     </task>
     <task id="LOCAL-00001" summary="add index.html file, add main.css file, adapted for tablet and mobile version">
       <option name="closed" value="true" />
@@ -114,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700311220625</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add favicon">
+      <option name="closed" value="true" />
+      <created>1700315895195</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700315895210</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +141,7 @@
     <MESSAGE value="add index.html file, add main.css file, adapted for tablet and mobile version" />
     <MESSAGE value="in button class=&quot;submit&quot; change 'alt' in image" />
     <MESSAGE value="fixed mobile adaptation" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed mobile adaptation" />
+    <MESSAGE value="add favicon" />
+    <option name="LAST_COMMIT_MESSAGE" value="add favicon" />
   </component>
 </project>
